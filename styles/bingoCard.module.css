@@ -1,0 +1,25 @@
+.bingoCard {
+	border-radius: 15%;
+	padding: 10px;
+	background-color:azure;
+	border-collapse: separate;
+  border-spacing: 5px;
+}
+
+.bingoColumns {
+}
+
+.bingoCardHeader {
+	font-size: 1.5rem;
+}
+
+.bingoRows {
+	display: table-cell;
+	text-align: center;
+	width: 50px;
+	height: 50px;
+	padding: 10px;
+	margin: 10px;
+	background-color: aliceblue;
+	border-radius: 50%;
+}
